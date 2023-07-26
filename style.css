@@ -1,0 +1,19 @@
+body{
+        background-color: rgb(178, 42, 42);
+}
+#container{
+        background-color: rgb(198, 40, 40);
+        border: 5px solid #000000;
+        height: 900px;
+        width: 750 px;
+        margin: auto;
+        text-align: center;
+        font-size: large;
+        font-family: 'Courier New', Courier, monospace;
+        
+}
+input{
+    width: 400px; 
+    margin: 50px auto;
+
+}
