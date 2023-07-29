@@ -10,7 +10,12 @@ const myDictionary = {
     roti: ["Protein: 9g, Calories: 297"],
     daal: ["Protein: 7.3g, Calories: 105"],
     richprotein: ["ChickenBreast, Turkey, Salmon, Tuna, Eggs, Yogurt, Chees, Lentils, Chickpeas, BlackBeans, Quinoa, Tofu, Edamame, Almonds, Greek-style-Yogurt"],
-    yogurt: [""]
+    yogurt: ["Calories: Approximately 61-69 calories, Protein: Approximately 3.5-4.5 grams of protein"],
+    biryani: ["Protein: 5-10g, Calories:150-200"],
+    puri: ["Protein: 6gm, Calories: 300-500"],
+    munchurian: ["Protein: 3-4g, Calories: 100-150"],
+    idli: ["Protein: 7-9g, Calories: 30-40"],
+    dosa: ["Protein: 5-6g,Calories: 100-150" ]
 };
 
 function val()  {
