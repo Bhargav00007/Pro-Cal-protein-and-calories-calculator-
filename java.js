@@ -15,7 +15,19 @@ const myDictionary = {
     puri: ["Protein: 6gm, Calories: 300-500"],
     munchurian: ["Protein: 3-4g, Calories: 100-150"],
     idli: ["Protein: 7-9g, Calories: 30-40"],
-    dosa: ["Protein: 5-6g,Calories: 100-150" ]
+    dosa: ["Protein: 5-6g,Calories: 100-150" ],
+    banana: ["Protein = 1.0g, Calories = 96"],
+    apple: ["Protein = 0.3g, Calories = 52"],
+    orange: ["Protein = 1.0g, Calories = 43"],
+    mango: ["Protein = 0.5g, Calories = 60"],
+    watermelon: ["Protein = 0.6g, Calories = 30"],
+    grapes: ["Protein = 0.6g, Calories = 69"]
+
+
+
+
+
+
 };
 
 function val()  {
