@@ -21,7 +21,10 @@ const myDictionary = {
     orange: ["Protein = 1.0g, Calories = 43"],
     mango: ["Protein = 0.5g, Calories = 60"],
     watermelon: ["Protein = 0.6g, Calories = 30"],
-    grapes: ["Protein = 0.6g, Calories = 69"]
+    grapes: ["Protein = 0.6g, Calories = 69"],
+    pineapple: ["Protein = 0.5g, Calories = 50"],
+    strawberry: ["Protein = 0.7g, Calories = 32"]
+    
 
 
 
