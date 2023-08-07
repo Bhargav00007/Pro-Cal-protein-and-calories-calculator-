@@ -23,7 +23,10 @@ const myDictionary = {
     watermelon: ["Protein = 0.6g, Calories = 30"],
     grapes: ["Protein = 0.6g, Calories = 69"],
     pineapple: ["Protein = 0.5g, Calories = 50"],
-    strawberry: ["Protein = 0.7g, Calories = 32"]
+    strawberry: ["Protein = 0.7g, Calories = 32"],
+    papaya: ["Protein = 0.5g, Calories = 43"],
+    soybean: ["Protein: 9g, Calories: 173"],
+    egg: ["Protein: 13g, Calories: 143"]
     
 
 
