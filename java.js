@@ -27,8 +27,8 @@ const myDictionary = {
     papaya: ["Protein = 0.5g, Calories = 43"],
     soybean: ["Protein: 9g, Calories: 173"],
     egg: ["Protein: 13g, Calories: 143"],
-    pomegranate: ["Protein = 1.7g, Calories = 83"]
-
+    pomegranate: ["Protein = 1.7g, Calories = 83"],
+    potato: ["protein = 4.3, calories = 161"]
     
 
 
