@@ -28,7 +28,8 @@ const myDictionary = {
     soybean: ["Protein: 9g, Calories: 173"],
     egg: ["Protein: 13g, Calories: 143"],
     pomegranate: ["Protein = 1.7g, Calories = 83"],
-    potato: ["protein = 4.3, calories = 161"]
+    potato: ["protein = 4.3g, calories = 161"],
+    omelette: ["protein = 14g, calories = 154"]
     
 
 
